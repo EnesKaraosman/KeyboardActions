@@ -48,3 +48,5 @@ struct ContentView: View {
     }
 }
 ```
+
+<img src="Sources/KeyboardActions/preview.gif" width="320" />
